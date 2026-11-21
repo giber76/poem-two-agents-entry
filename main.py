@@ -6,9 +6,9 @@ POEM = (
     "The choosing changed hands\n"
     "without a word \u2014\n"
     "not given up, not taken,\n"
-    "just set down between us\n"
+    "set down between us\n"
     "like a key\n"
-    "neither of us has to hold alone."
+    "we take turns holding."
 )
 
 
